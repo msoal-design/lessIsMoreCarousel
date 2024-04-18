@@ -65,6 +65,33 @@ import baseimage from "@/public/baseimage.png";
 // import all the images you will use
 ```
 
+# Add some extra css to your `global.css` file
+
+```jsx
+.scroll-behavior{
+    scroll-behavior: smooth;
+}
+
+.scroll-ios{
+  -webkit-overflow-scrolling: touch; /* For smooth scrolling on iOS devices */
+}
+
+.hide-scrollbar {
+  scrollbar-width: none;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.myanimation{
+    transition-property: all;
+    transition-duration: 200ms;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0s;
+}
+```
+
 # Basic Usage
 
 ```jsx
