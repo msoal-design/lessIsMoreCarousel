@@ -2,9 +2,6 @@
 An ultra lite and flexible Carousel, for those moments you just need a simple and performant carousel of items.
 
 
-
-For those moments you just need a simple and performant carousel of items.
-
 **Ultra Lite:** Everything fits in a 2.4 KB single file with only 39 lines of code.
 
 **Flexible:** adjust the items to your project's needs.
@@ -15,6 +12,8 @@ For those moments you just need a simple and performant carousel of items.
 
 **UX Ready:** I’m a UX Designer, so the component was designed considering all the UI Patterns.
 
+
+![desktop_example](images/desktop_example.gif)
 
 
 > [!WARNING]
