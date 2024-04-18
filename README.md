@@ -13,11 +13,11 @@ An ultra lite and flexible Carousel, for those moments you just need a simple 
 **UX Ready:** I’m a UX Designer, so the component was designed considering all the UI Patterns.
 
 
-![desktop_example](images/desktop_example.gif)
+![desktop_example](images/desktop_example.png)
 
 
 > [!WARNING]
-> This carousel doesn’t calculate the available space to show X quantity of items. This carousel uses the contemporary UI Pattern that lets the users see a small part of the next item so they know there is more to discover.
+> This carousel doesn’t calculate the available space to show X quantity of items. This carousel uses a contemporary UI Pattern that lets the users see a small part of the next item so they know there is more to discover.
 
 
 
