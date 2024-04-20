@@ -13,7 +13,7 @@ An ultra lite and flexible Carousel, for those moments you just need a simple 
 **UX Ready:** I’m a UX Designer, so the component was designed considering all the UI Patterns.
 
 
-![desktop_example](images/desktop_example.png)
+![desktop_example](images/tablet_example.gif)
 
 
 > [!WARNING]
