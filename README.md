@@ -8,7 +8,7 @@ An ultra lite and flexible Carousel, for those moments you just need a simple 
 
 **Performant:** super lite and speed component. You can add several carousels on the same page with confidence.
 
-**Mobile & Desktop:** It was designed to be used in responsive websites, with the mobile-first approach in mind.
+**Mobile & Desktop:** It was designed to be used in responsive websites, with the mobile-first approach in mind. Touch scroll for mobile devices, arrows for desktop.
 
 **UX Ready:** I’m a UX Designer, so the component was designed considering all the UI Patterns.
 
